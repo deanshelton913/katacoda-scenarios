@@ -6,7 +6,7 @@ Lets make sure we have atleast version 10 on NodeJS.
 
 `node --version`{{execute}}
 
-Well, that's ancient! Lets update to the latest LTS version of nodeJS (v12) to be sure we are supported.
+8!? Well, that's ancient! Lets update to the latest LTS version of nodeJS (v12) to be sure we are supported.
 
 `curl -sL https://deb.nodesource.com/setup_12.x | bash && apt-get install nodejs`{{execute}}
 

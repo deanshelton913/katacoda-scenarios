@@ -6,7 +6,7 @@ First things first.
 
 Lets check out our version of nodejs. Dragonchain just needs atleast version 10 or greater.
 
-`node --version` {{execute}}
+`node --version`{{execute}}
 
 Well, that's ancient! Lets update to the latest LTS version of nodeJS (v12) to be sure we are supported.
 

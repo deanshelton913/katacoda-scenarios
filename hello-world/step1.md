@@ -10,7 +10,7 @@ Lets check out our version of nodejs. Dragonchain just needs atleast version 10 
 
 Well, that's ancient! Lets update to the latest LTS version of nodeJS (v12) to be sure we are supported.
 
-`curl -sL https://deb.nodesource.com/setup_12.x | bash && apt-get install nodejs'`{{execute}}
+`curl -sL https://deb.nodesource.com/setup_12.x | bash && apt-get install nodejs`{{execute}}
 
 That does it for the environment.
 

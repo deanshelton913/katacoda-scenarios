@@ -1,10 +1,8 @@
-This is your first step.
-
-## Task
-
 First things first.
 
-Lets check out our version of nodejs. Dragonchain just needs atleast version 10 or greater.
+## Get up to date!
+
+Lets make sure we have atleast version 10 on NodeJS.
 
 `node --version`{{execute}}
 

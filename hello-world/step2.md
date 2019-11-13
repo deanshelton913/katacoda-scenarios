@@ -11,6 +11,11 @@ but for now we can just create our first smart contract.
 
 `dctl contract init --language node --dir myContract`{{execute}}
 
-> NOTE: Dont feel tied to nodejs. We could have chosen java, c#, golang or even bash! Checkout the docs for more information on supported languages.
+> NOTE: Dont feel tied to nodejs. We could have chosen java, c#, golang or even bash! Checkout the [docs](http://docs.dragonchain.com) for more information on supported languages.
 
+Your contract scaffold is prepared!
+
+Lets use `tree` to see what is in our filesystem.
+
+`tree`{{execute}}
 

@@ -10,6 +10,9 @@
     },{
       "title": "Step 2 - Install DCTL",
       "text": "step2.md"
+    },{
+      "title": "Step 3 - Test out your smart contract!",
+      "text": "step3.md"
     }],
     "intro": {
       "text": "intro.md",

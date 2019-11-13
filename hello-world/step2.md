@@ -15,7 +15,7 @@ but for now we can just create our first smart contract.
 
 Your contract scaffold is prepared!
 
-Lets use `tree` to see what is in our filesystem.
+Check out the files in the myContract directory
 
-`tree`{{execute}}
+Next we will build and run this smart contract.
 

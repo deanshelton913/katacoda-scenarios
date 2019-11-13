@@ -9,7 +9,8 @@ DCTL has many commands to help us interface with our dragonchain, and manipulate
 In future tutorials, we will even use DCTL to talk to other public blockchains like bitcoin and ethereum,
 but for now we can just create our first smart contract.
 
-Dragonchain supports any programming language for it's smart contracts, but for this example just lets choose
-"nodejs" because... well why not. It's popular, and the dragonchain NodeJS sample contract is pretty well documented.
-
 `dctl contract init --language node --dir myContract` {{execute}}
+
+> NOTE: Dont feel tied to nodejs. We could have chosen java, c#, golang or even bash! Checkout the docs for more information on supported languages.
+
+

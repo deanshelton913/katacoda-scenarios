@@ -1,1 +1,3 @@
-Welcome to your first Katacoda Scenario!
+Welcome to Dragonchain's interactive tutorial.
+
+Lets create a smart contract!

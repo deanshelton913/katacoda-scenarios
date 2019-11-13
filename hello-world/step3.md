@@ -10,10 +10,10 @@ If all goes according to plan, this demo contract will count up from 1 to infini
 
 Lets try invoking it locally.
 
-`dctl contract test my-contract:latest --payload "Hello, World!"`{{execute}}
+`dctl contract test my-contract:latest --payload "Hello, World!" --test-directory ./myContract/test`{{execute}}
 
 The output should show that the call-count is 1.
 
 Subsequent runs should count up, try it again:
 
-`dctl contract test my-contract:latest --payload "Get schwifty!"`{{execute}}
+`dctl contract test my-contract:latest --payload "Get schwifty!" --test-directory ./myContract/test`{{execute}}
